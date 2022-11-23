@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\GitHub\ForexOptionPricer\ForexOptionPricer\ServeurLib\bin\Debug\ServeurLib.dll.config
+C:\Users\PC\Documents\GitHub\ForexOptionPricer\ForexOptionPricer\ServeurLib\bin\Debug\ServeurLib.dll
+C:\Users\PC\Documents\GitHub\ForexOptionPricer\ForexOptionPricer\ServeurLib\bin\Debug\ServeurLib.pdb
+C:\Users\PC\Documents\GitHub\ForexOptionPricer\ForexOptionPricer\ServeurLib\obj\Debug\ServeurLib.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\ForexOptionPricer\ForexOptionPricer\ServeurLib\obj\Debug\ServeurLib.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\ForexOptionPricer\ForexOptionPricer\ServeurLib\obj\Debug\ServeurLib.dll
+C:\Users\PC\Documents\GitHub\ForexOptionPricer\ForexOptionPricer\ServeurLib\obj\Debug\ServeurLib.pdb
